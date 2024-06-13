@@ -1,0 +1,129 @@
+[
+    {
+        "text": "On a number line, when we add a positive integer, we",
+        "options": ["move to the right", "move to the left", "do not move at all"],
+        "correctOption": 1,
+        "difficulty": 1,
+        "tag": "Integers"
+    },
+    {
+        "text": "The fraction (p+q) / q equals",
+        "options": ["p", "p/q + q", "p/q + 1"],
+        "correctOption": 3,
+        "difficulty": 1,
+        "tag": "Fractions and Decimals"
+    },
+    {
+        "text": "Which of the following is an equation",
+        "options": ["2y + 3 = 11", "7x", "x+5"],
+        "correctOption": 1, 
+        "difficulty": 1,
+        "tag": "Linear Equations"
+    },
+    {
+        "text": "21% of Rs.250 is",
+        "options": ["Rs.52.50", "Rs.50.50", "Rs.60.50"],
+        "correctOption": 1, 
+        "difficulty": 1,
+        "tag": "Percentage"
+    },
+    {
+        "text": "To measure speed, you should know, total distance covered and total",
+        "options": ["pressure", "time", "temperature"],
+        "correctOption": 2, 
+        "difficulty": 1,
+        "tag": "Speed and Distance"
+    },
+    {
+        "text": "The product of two integers is 4 less than 49. If one of the integers is -9, the other integer is",
+        "options": [443, -5, 40],
+        "correctOption": 2, 
+        "difficulty": 2,
+        "tag": "Integers"
+    },
+    {
+        "text": "16 * 10 + 2 is equal to ",
+        "options": [162, 192, 52],
+        "correctOption": 1, 
+        "difficulty": 2,
+        "tag": "Integers"
+    },{
+        "text": "16.96 / 400 = ",
+        "options": [420, 0.0424, 420.04],
+        "correctOption": 2, 
+        "difficulty": 2,
+        "tag": "Fractions and Decimals"
+    },{
+        "text": "if 43m = 0.086 then m has the value",
+        "options": [0.002, 0.02, 0.2],
+        "correctOption": 1, 
+        "difficulty": 2,
+        "tag": "Fractions and Decimals"
+    },{
+        "text": "0.35 * 0.2 is equal to",
+        "options": [70.0, 0.7, 0.070],
+        "correctOption": 3, 
+        "difficulty": 2,
+        "tag": "Fractions and Decimals"
+    },{
+        "text": "Which of the following is a perfect square?",
+        "options": [ 1057, 625, 7928],
+        "correctOption": 2, 
+        "difficulty": 2,
+        "tag": "Squares and Square Roots"
+    },{
+        "text": "Which of the following will have 6 at unit place?",
+        "options": ["19^2", "11^2", "24^2"],
+        "correctOption": 3, 
+        "difficulty": 2,
+        "tag": "Squares and Square Roots"
+    },{
+        "text": "The square of which of the following number will be an even number?",
+        "options": [31, 38, 60],
+        "correctOption": 2, 
+        "difficulty": 2,
+        "tag": "Squares and Square Roots"
+    },{
+        "text": "Find the smallest number by which the number 200 must be multiplied to obtain a perfect cube.",
+        "options": [2, 10, 5],
+        "correctOption": 3, 
+        "difficulty": 3,
+        "tag": "Cubes and Cube Roots"
+    },{
+        "text": "The factors of xyz are:",
+        "options": ["x", "y and z", "all of the above"],
+        "correctOption": 3, 
+        "difficulty": 3,
+        "tag": "Factorization"
+    },{
+        "text": "The height of a cylinder whose radius is 7 cm and the total surface area is 968 cm2 is:",
+        "options": ["15cm", "17cm", "15.89cm"],
+        "correctOption": 1, 
+        "difficulty": 3,
+        "tag": "Mensuration"
+    },{
+        "text": "The area of a rhombus is 240 cm2 and one of the diagonals is 16 cm. Find the other diagonal.",
+        "options": ["16cm", "20cm", "30cm"],
+        "correctOption": 3, 
+        "difficulty": 3,
+        "tag": "Mensuration"
+    },{
+        "text": "A card is drawn from a deck of 52 cards. The event E is that card is not an ace of hearts. The number of outcomes favourable to E is",
+        "options": [4, 13, 51],
+        "correctOption": 3, 
+        "difficulty": 3,
+        "tag": "Probability"
+    },{
+        "text": "What is the common difference of an AP in which a18 – a14 = 32?",
+        "options": [8, -8, -4],
+        "correctOption": 1, 
+        "difficulty": 3,
+        "tag": "Arithmetic Progression"
+    },{
+        "text": "If the mean of first n natural numbers is 3n/5, then the value of n is:",
+        "options": [3, 4, 5],
+        "correctOption": 3, 
+        "difficulty": 2,
+        "tag": "Statistics"
+    }
+]
